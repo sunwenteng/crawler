@@ -1,0 +1,30 @@
+{
+  "name": "crawler",
+  "version": "0.0.1",
+  "description": "Sample project that uses crawler",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sunwenteng/crawler.git"
+  },
+  "scripts": {
+  },
+  "author": {
+    "name": "sunwenteng",
+    "email": "elvessun@gmail.com",
+    "url": "https://github.com/sunwenteng"
+  },
+  "license": "MIT",
+  "keywords": [
+    "crawler"
+  ],
+  "homepage": "https://github.com/sunwenteng/crawler#readme",
+  "devDependencies": {
+  },
+  "dependencies": {
+    "crawler": "^0.4.3"
+  },
+  "devEngines": {
+    "node": "4.x || 5.x",
+    "npm": "2.x || 3.x"
+  }
+}
